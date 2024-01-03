@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Blogs"
-----------
+---
 ### Defining the Concept: What is Climate Change?
 
 Climate change, in the most basic terms, is a significant shift in our planet's typical weather patterns. Now, this isn't about Mum's age-old complaint about the bitter cold or Dad grumbling about the extreme summer heat. We're talking long-term shifts over decades or even millions of years. That's right, buddy, it's not your everyday weather forecast chatter.
