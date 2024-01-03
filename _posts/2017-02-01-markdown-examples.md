@@ -30,7 +30,6 @@ Natural disasters are more than just physical shake-ups; they also stir up psych
 Climate change also triggers an epic drama of mass migration. When homes turn into ruins or fields become barren, people move, causing overcrowding, straining public health infrastructures, and amplifying the spread of infectious diseases.
 
 
-Just when we need them the most, our healthcare systems and urban infrastructure can buckle under the climate pressure. Call it cruel irony or a jeremiad of modern life, but the very things we've built for our safety can become our Achilles heel.
 
 
 
@@ -42,8 +41,5 @@ Just when we need them the most, our healthcare systems and urban infrastructure
 
 
 
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
+
+
