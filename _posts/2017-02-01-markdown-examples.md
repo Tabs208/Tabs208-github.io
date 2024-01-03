@@ -1,22 +1,40 @@
 ---
-title:  "Markdown examples"
+title:  "content"
 layout: post
 ---
+# Direct Health Impacts of Climate Change
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Heat-Related Illnesses and Deaths: When Temperatures Spike
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+Just as an ice-cream cone melts under the blazing sun, our bodies wilt too (not literally, don't panic!). In excessively high temperatures, heat-strokes, dehydration, cardiovascular failure, and even death can occur. And no, this isn’t another summer soap-opera plot twist; it's a chilling reality.
+
+### Rise in Food-Borne and Water-Borne Diseases: The Illness Outbreak
+
+Climate change brings a whole new twist to the phrase, "You are what you eat." How so? Warmer temperatures can cause food-borne diseases like salmonella to spread. Floods contaminate our water sources, leading to gastrointestinal and skin diseases. So, think twice before taking the next sip of your tap water; it might just be the plot of the newest disease-outbreak movie.
+
+#### Health Impacts from Extreme Weather Events: The Wrath of Nature
+
+The link here seems as obvious as a clown at a funeral (yikes!). Extreme weather events like hurricanes, floods, and droughts can cause immediate physical harm. However, let's not forget, the aftermath often raises an array of public health disaster - displacement of population, increase in vector-borne diseases, and strained healthcare services.
 
 
-## Heading Two (h2)
+##### Air Pollution and Respiratory Disorders: Breathing the Unseen Peril
 
-### Heading Three (h3)
+Not all dangers are visible, mate! Warmer temperatures escalate the levels of airborne pollutants, increasing the risk of respiratory illnesses like asthma. So the air we breathe – the very essence of life – can turn against us. Not quite the twist you were expecting, huh?
 
-#### Heading Four (h4)
+###### Mental Health Impact: Psychological Trauma of Natural Disasters
 
-##### Heading Five (h5)
+Natural disasters are more than just physical shake-ups; they also stir up psychological traumas! Depression, anxiety, post-traumatic stress disorder - these are only a few of the mental health challenges that emerge from the ruins of these disasters.
 
-###### Heading Six (h6)
+###### Climate Migrants: Public Health Challenges in a Warming World
+
+Climate change also triggers an epic drama of mass migration. When homes turn into ruins or fields become barren, people move, causing overcrowding, straining public health infrastructures, and amplifying the spread of infectious diseases.
+
+
+Just when we need them the most, our healthcare systems and urban infrastructure can buckle under the climate pressure. Call it cruel irony or a jeremiad of modern life, but the very things we've built for our safety can become our Achilles heel.
+
+
+
+
 
 
 ## Blockquotes
