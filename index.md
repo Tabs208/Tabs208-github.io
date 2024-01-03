@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blogs"
+title: "Introduction"
 ---
 ### Defining the Concept: What is Climate Change?
 
